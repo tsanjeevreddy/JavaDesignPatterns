@@ -1,0 +1,18 @@
+J2EE design patterns are built for developing Enterprise Web-based Applications.
+    Mainly we have three types of J2EE Design Patterns available.
+
+1) Presentation Layer Design Patterns
+    1.a) Inntercepting Filter Pattern
+    1.b) Front Controller Pattern
+    1.c) View Helper Pattern
+    1.d) Composite View Pattern
+
+2) Business Layer Design Patterns
+    2.a) Business Delegate Pattern
+    2.b) Service Locator Pattern
+    2.c) Session Facade Pattern
+    2.d) Transfer Object Pattern
+    
+3) Integration Layer Design Patterns
+   3.a) Data Access Object Pattern
+   3.b) Web Service Broker Pattern
